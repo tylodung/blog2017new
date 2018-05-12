@@ -1,0 +1,114 @@
+@import 'vars';
+
+.header {
+
+    z-index: 100;
+    @media (min-width: 1040px) {
+        position: fixed;
+        width: 100%;
+    }
+
+    .header-inner {
+        height: 3rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 5vw;
+        transition: .25s ease;
+        
+        @media (min-width: 660px) {
+            padding: 0 2.25rem;
+        }
+        
+        @media (min-width: 1040px) {
+        height: 5rem;
+            padding: 1rem 2.25rem;
+        }
+        > ul a, h1 a {
+            padding: .5em; 
+            border-radius: 999px;
+            transition: .35s ease;
+            color: $text;
+            text-decoration: none;
+            margin-right: .5em;
+            // display: block;
+            display: flex;
+            align-items: center;
+            line-height: 1;
+
+            &:hover {
+                // background-color: #9115FF;
+                background-color: $white;
+                box-shadow: $pillowy-shadow;
+            }
+        }
+    }
+
+    h1 {
+        font-size: 1rem;
+        display: inline-block;
+        margin: 0;
+
+        a {
+            margin-left: -.5em;
+            margin-right: .25rem;
+        }
+    }
+
+    ul {
+        margin-right: -.5em;
+        margin-bottom: 0;
+        line-height: 2.9rem;
+        font-size: .85rem;
+        color: $text;
+        float: right;
+        display: inline-block;
+        list-style: none;
+
+        li {
+            float: left;
+            margin: 0;
+             
+            &:last-child a {
+                margin-right: 0;
+            }
+        }
+    }
+
+    
+}
+
+
+@keyframes expand {
+    0% {
+        transform: scaleX(0);
+    }
+    100% {
+        transform: scaleX(1);
+    }
+}
+
+@keyframes slide-in {
+    0% {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+    50% {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0%);
+    }
+}
+
+a.social-link {
+    line-height: 0;
+
+    .github-icon{
+        position: relative;
+        left: -1px; 
+    }
+}
+

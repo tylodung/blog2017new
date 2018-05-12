@@ -1,0 +1,47 @@
+@import 'vars';
+
+.tag-list li{
+    display: inline-block;
+}
+
+.tags {
+    list-style: none;
+    margin-left: 0;
+    display: inline-block;
+    width: 100%;
+}
+
+.tags li {
+    display: inline-block;
+}
+
+.tag {
+    background-color: rgba($text,.05);
+    color: #222;
+    border-radius: 999px;
+    display: inline-block;
+    padding: .125em .75em .5em;
+    margin-right: .5rem;
+    text-decoration: none;
+    transition: .35s ease;
+}
+
+.tag:hover {
+    box-shadow: $pillowy-shadow;
+    background-color: rgba($white,1);
+    color: #9115FF;
+}
+
+.tags a {
+    text-decoration: none;
+    font-size: 3em;
+    line-height: 1;
+    display: inline-block;
+    padding: .25em .75em .5em;
+}
+
+@media (max-width: 660px) { 
+  .tags a { 
+    font-size: 1rem;
+  }
+}
