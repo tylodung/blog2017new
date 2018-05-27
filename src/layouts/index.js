@@ -53,7 +53,7 @@ export default class Template extends React.Component {
         }}
       >
         <Helmet
-          title="Doan Binh Design Blog"
+          title="Doan Binh Design"
           meta={[
             { name: 'description', content: 'Notes and photos about design, travel, Film, and more.' },
             { name: 'keywords', content: 'Stephen Nixon, design, code, type, lettering, photography' },
