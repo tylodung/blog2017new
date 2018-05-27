@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/FilmProducerso-far.html"
 date: "2018-05-13T09:49:16.408Z" 
 title: "Bruce Willis Has Legal Win Against Film Producer Reversed by Appeals Court"
 tags: ["travel", "den haag", "netherlands"]

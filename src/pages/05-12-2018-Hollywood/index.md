@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/How-Hedys-so-far.html"
 date: "2018-05-18T09:49:16.408Z" 
 title: "Hollywood Flashback: How Hedy Lamarr Helped Invent Wi-Fi"
 tags: ["travel", "den haag", "netherlands"]

@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/Antidotetofar.html"
 date: "2018-05-14T09:49:16.408Z" 
 title: "Why 'Psychokinesis' Is the Antidote to Summer Superhero Movie Fatigue"
 tags: ["travel", "den haag", "netherlands"]

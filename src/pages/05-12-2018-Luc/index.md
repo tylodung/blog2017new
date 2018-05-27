@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/desonAghlights-so-far.html"
 date: "2018-05-19T09:49:16.408Z" 
 title: "Luc Besson Accused of Rape Report"
 tags: ["travel", "den haag", "netherlands"]

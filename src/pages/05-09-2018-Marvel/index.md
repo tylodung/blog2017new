@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/Young-Heros-so-far.html"
 date: "2018-05-11T09:49:16.408Z" 
 title: "Marvel Relaunches 'West Coast Avengers' as Young Hero Team"
 tags: ["travel", "den haag", "netherlands"]

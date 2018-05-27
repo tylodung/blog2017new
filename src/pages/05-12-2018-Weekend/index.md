@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/den-Deadpoolghts-so-far.html"
 date: "2018-05-17T09:49:16.408Z" 
 title: "Weekend Box Office: 'Deadpool 2' Earns Record $53.3M on Friday"
 tags: ["travel", "den haag", "netherlands"]

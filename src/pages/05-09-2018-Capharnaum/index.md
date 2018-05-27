@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/Cannes-2018-so-far.html"
 date: "2018-05-11T09:49:16.408Z" 
 title: "'Capharnaum': Film Review | Cannes 2018"
 tags: ["travel", "den haag", "netherlands"]

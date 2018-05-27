@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/d-Moviehts-so-far.html"
 date: "2018-05-18T09:49:16.408Z" 
 title: "Royal Weddings in Movies, TV Shows"
 tags: ["travel", "den haag", "netherlands"]

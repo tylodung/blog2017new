@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/den-haag-HisSecret-so-far.html"
 date: "2018-05-12T09:49:16.408Z" 
 title: "'BlacKkKlansman' Star Reveals His Secret Love of 'Sex and the City'"
 tags: ["travel", "den haag", "netherlands"]

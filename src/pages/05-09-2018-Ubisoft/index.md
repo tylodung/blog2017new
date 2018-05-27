@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/310Millions-so-far.html"
 date: "2018-05-10T09:49:16.408Z" 
 title: "Ubisoft's 'Far Cry 5' First-Week Sales Top $310 Million"
 tags: ["travel", "den haag", "netherlands"]

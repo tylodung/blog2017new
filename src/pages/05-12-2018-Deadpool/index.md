@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/dtotheComights-so-far.html"
 date: "2018-05-20T09:49:16.408Z" 
 title: "'Deadpool 2' Is Truer to the Comics Than Fans May Realize"
 tags: ["travel", "den haag", "netherlands"]

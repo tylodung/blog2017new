@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/denuissonniere-so-far.html"
 date: "2018-05-09T09:49:16.408Z" 
 title: "'School of Life' ('L'ecole buissonniere'): Film Review"
 tags: ["travel", "den haag", "netherlands"]

@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/denReynoldsandJo-so-far.html"
 date: "2018-05-15T09:49:16.408Z" 
 title: "Ryan Reynolds and Josh Brolin Spoof 'The Good, the Bad and the Ugly' with James Corden"
 tags: ["travel", "den haag", "netherlands"]

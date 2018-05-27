@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/den-appy-ashts-so-far.html"
 date: "2018-05-23T09:49:16.408Z" 
 title: "Cannes: Netflix Lands 'Happy as Lazzaro,' 'Girl'"
 tags: ["travel", "den haag", "netherlands"]

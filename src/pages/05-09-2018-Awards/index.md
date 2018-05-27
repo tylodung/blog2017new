@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/Good-Girls-highlights-so-far.html"
 date: "2017-09-09T09:49:16.408Z" 
 title: "'Awards Chatter' Podcast — Christina Hendricks'Good Girls'"
 tags: ["travel", "den haag", "netherlands"]

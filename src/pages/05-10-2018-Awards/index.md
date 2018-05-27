@@ -1,5 +1,5 @@
 ---
-path: "/den-haag-highlights-so-far.html"
+path: "/omic-Exclusive-far.html"
 date: "2018-05-11T09:49:16.408Z" 
 title: "Lisbeth Salander Returns in 'The Girl Who Danced With Death' Comic Exclusive"
 tags: ["travel", "den haag", "netherlands"]
